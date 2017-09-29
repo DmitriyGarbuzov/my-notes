@@ -1,0 +1,10 @@
+{
+  "name": "my-notes",
+  "version": "0.0.1",
+  "description": "Project for notes processing",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Dmitriy Harbuzov"
+}
