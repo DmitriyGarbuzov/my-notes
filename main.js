@@ -15,7 +15,7 @@ function createWindow() {
   win = new BrowserWindow({
     width: 800,
     height: 600,
-    icon : path.join(__dirname, 'views/assets/icons/png/64x64.png')
+    icon : path.join(__dirname, 'views/assets/icons/notes-icon.png')
   })
 
   win.loadURL(url.format({
